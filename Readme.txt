@@ -2,7 +2,7 @@ public class Anneau {
 
   //-------------- constantes ----------------------------------------
     /**
-     * rayon par défaut des anneau
+     * rayon par défaut des anneaux
      */
     public final static int R = 5;
 
